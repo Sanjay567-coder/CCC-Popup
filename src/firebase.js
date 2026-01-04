@@ -7,12 +7,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC0puliHEf9T338GjkX2I40Hbnv_3eOhZk",
-  authDomain: "campusconnect-edc69.firebaseapp.com",
-  projectId: "campusconnect-edc69",
-  storageBucket: "campusconnect-edc69.firebasestorage.app",
-  messagingSenderId: "717371880634",
-  appId: "1:717371880634:web:08e8c0961d19cd202c3e83"
+  
 };
 
 // Initialize Firebase
